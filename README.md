@@ -7,6 +7,7 @@ E94051160 陳柏志 資訊109
 Ubuntu18.04/Linux
 
 * install:
+```
 sudo apt-get install libglfw3-dev libglfw3 //安裝glfw
 sudo apt-get install libglew-dev //安裝glew
 sudo apt-get install libglm-dev //安裝glm
@@ -16,6 +17,7 @@ pkg-config --libs --static glfw3
 
 sudo apt-get install libassimp-dev
 sudo apt-get install assimp-utils
+```
 
 ## 模型骨架
 
@@ -40,7 +42,7 @@ g++ -std=c++0x -o output main.cpp -lGL -lglfw -lGLEW -lm -lassimp
 ## 執行
 
 ```
-./ouptut
+./output
 ```
 
 ### 操作說明
