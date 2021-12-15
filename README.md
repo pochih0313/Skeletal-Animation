@@ -1,4 +1,4 @@
-# Opengl_FinalProject
+# Skeletal-Animation
 
 E94051160 陳柏志 資訊109
 
