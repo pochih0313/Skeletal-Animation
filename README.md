@@ -1,4 +1,5 @@
 # Skeletal-Animation
+Implementation of skeletal animation using OpenGL.
 
 ## 作業環境
 
