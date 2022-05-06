@@ -1,7 +1,5 @@
 # Skeletal-Animation
 
-E94051160 陳柏志 資訊109
-
 ## 作業環境
 
 Ubuntu18.04/Linux
